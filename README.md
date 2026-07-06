@@ -4,10 +4,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0905-sort-array-by-parity](https://github.com/adarsh-2406/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adarsh-2406/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/adarsh-2406/DSA/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0905-sort-array-by-parity](https://github.com/adarsh-2406/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/adarsh-2406/DSA/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0905-sort-array-by-parity](https://github.com/adarsh-2406/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 <!---LeetCode Topics End-->
