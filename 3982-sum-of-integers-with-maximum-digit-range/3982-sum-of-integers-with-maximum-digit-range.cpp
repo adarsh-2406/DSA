@@ -21,7 +21,7 @@ public:
             ans.push_back(max - min);
 
 
-        }
+        } // bina array leke , 2nd maximum nikalne wale tarike se bhi ho jayega;
         int range = *max_element(ans.begin() , ans.end());
         int result = 0;
         for(int i = 0; i< ans.size();i++ ){
