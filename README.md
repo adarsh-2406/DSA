@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/adarsh-2406/DSA/tree/main/0189-rotate-array/) | Medium |
+| [0342-power-of-four](https://github.com/adarsh-2406/DSA/tree/main/0342-power-of-four/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/adarsh-2406/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1025-divisor-game](https://github.com/adarsh-2406/DSA/tree/main/1025-divisor-game/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adarsh-2406/DSA/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -111,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/adarsh-2406/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0342-power-of-four](https://github.com/adarsh-2406/DSA/tree/main/0342-power-of-four/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0342-power-of-four](https://github.com/adarsh-2406/DSA/tree/main/0342-power-of-four/) | Easy |
 <!---LeetCode Topics End-->
