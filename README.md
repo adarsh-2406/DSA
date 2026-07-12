@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adarsh-2406/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0041-first-missing-positive](https://github.com/adarsh-2406/DSA/tree/main/0041-first-missing-positive/) | Hard |
+| [0053-maximum-subarray](https://github.com/adarsh-2406/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/adarsh-2406/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adarsh-2406/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/adarsh-2406/DSA/tree/main/0169-majority-element/) | Easy |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/adarsh-2406/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/adarsh-2406/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [1025-divisor-game](https://github.com/adarsh-2406/DSA/tree/main/1025-divisor-game/) | Easy |
 ## Brainteaser
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adarsh-2406/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0053-maximum-subarray](https://github.com/adarsh-2406/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/adarsh-2406/DSA/tree/main/0169-majority-element/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
