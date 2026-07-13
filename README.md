@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarsh-2406/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/adarsh-2406/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/adarsh-2406/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/adarsh-2406/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0881-boats-to-save-people](https://github.com/adarsh-2406/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/adarsh-2406/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0948-bag-of-tokens](https://github.com/adarsh-2406/DSA/tree/main/0948-bag-of-tokens/) | Medium |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/adarsh-2406/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0342-power-of-four](https://github.com/adarsh-2406/DSA/tree/main/0342-power-of-four/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/adarsh-2406/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/adarsh-2406/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1025-divisor-game](https://github.com/adarsh-2406/DSA/tree/main/1025-divisor-game/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adarsh-2406/DSA/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Binary Search
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/adarsh-2406/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarsh-2406/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/adarsh-2406/DSA/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/adarsh-2406/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
