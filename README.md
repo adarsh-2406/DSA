@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/adarsh-2406/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/adarsh-2406/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0525-contiguous-array](https://github.com/adarsh-2406/DSA/tree/main/0525-contiguous-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/adarsh-2406/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/adarsh-2406/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0881-boats-to-save-people](https://github.com/adarsh-2406/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/adarsh-2406/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/adarsh-2406/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarsh-2406/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0525-contiguous-array](https://github.com/adarsh-2406/DSA/tree/main/0525-contiguous-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/adarsh-2406/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0771-jewels-and-stones](https://github.com/adarsh-2406/DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/adarsh-2406/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/adarsh-2406/DSA/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -169,4 +171,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0525-contiguous-array](https://github.com/adarsh-2406/DSA/tree/main/0525-contiguous-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/adarsh-2406/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
