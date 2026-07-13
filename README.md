@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adarsh-2406/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0031-next-permutation](https://github.com/adarsh-2406/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0041-first-missing-positive](https://github.com/adarsh-2406/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0053-maximum-subarray](https://github.com/adarsh-2406/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/adarsh-2406/DSA/tree/main/0088-merge-sorted-array/) | Easy |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/adarsh-2406/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0088-merge-sorted-array](https://github.com/adarsh-2406/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adarsh-2406/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/adarsh-2406/DSA/tree/main/0189-rotate-array/) | Medium |
