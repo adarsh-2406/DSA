@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/adarsh-2406/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0046-permutations](https://github.com/adarsh-2406/DSA/tree/main/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/adarsh-2406/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/adarsh-2406/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0088-merge-sorted-array](https://github.com/adarsh-2406/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adarsh-2406/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/adarsh-2406/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/adarsh-2406/DSA/tree/main/0041-first-missing-positive/) | Hard |
+| [0073-set-matrix-zeroes](https://github.com/adarsh-2406/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/adarsh-2406/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/adarsh-2406/DSA/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/adarsh-2406/DSA/tree/main/0242-valid-anagram/) | Easy |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/adarsh-2406/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/adarsh-2406/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
