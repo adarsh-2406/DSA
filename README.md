@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/adarsh-2406/DSA/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/adarsh-2406/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/adarsh-2406/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/adarsh-2406/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/adarsh-2406/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0088-merge-sorted-array](https://github.com/adarsh-2406/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adarsh-2406/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/adarsh-2406/DSA/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/adarsh-2406/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/adarsh-2406/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/adarsh-2406/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Bit Manipulation
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0525-contiguous-array](https://github.com/adarsh-2406/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/adarsh-2406/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/adarsh-2406/DSA/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
