@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adarsh-2406/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0015-3sum](https://github.com/adarsh-2406/DSA/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/adarsh-2406/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0031-next-permutation](https://github.com/adarsh-2406/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0041-first-missing-positive](https://github.com/adarsh-2406/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0046-permutations](https://github.com/adarsh-2406/DSA/tree/main/0046-permutations/) | Medium |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/adarsh-2406/DSA/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/adarsh-2406/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0031-next-permutation](https://github.com/adarsh-2406/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0088-merge-sorted-array](https://github.com/adarsh-2406/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adarsh-2406/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/adarsh-2406/DSA/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/adarsh-2406/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0088-merge-sorted-array](https://github.com/adarsh-2406/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0164-maximum-gap](https://github.com/adarsh-2406/DSA/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/adarsh-2406/DSA/tree/main/0169-majority-element/) | Easy |
