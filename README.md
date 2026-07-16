@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adarsh-2406/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adarsh-2406/DSA/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/adarsh-2406/DSA/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/adarsh-2406/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/adarsh-2406/DSA/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/adarsh-2406/DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adarsh-2406/DSA/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/adarsh-2406/DSA/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/adarsh-2406/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/adarsh-2406/DSA/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/adarsh-2406/DSA/tree/main/0948-bag-of-tokens/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adarsh-2406/DSA/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/adarsh-2406/DSA/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/adarsh-2406/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/adarsh-2406/DSA/tree/main/1025-divisor-game/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adarsh-2406/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adarsh-2406/DSA/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/adarsh-2406/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/adarsh-2406/DSA/tree/main/0054-spiral-matrix/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/adarsh-2406/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -214,4 +219,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adarsh-2406/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/adarsh-2406/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->
