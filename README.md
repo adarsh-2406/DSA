@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/adarsh-2406/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/adarsh-2406/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/adarsh-2406/DSA/tree/main/0054-spiral-matrix/) | Medium |
+| [0056-merge-intervals](https://github.com/adarsh-2406/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/adarsh-2406/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0088-merge-sorted-array](https://github.com/adarsh-2406/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adarsh-2406/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/adarsh-2406/DSA/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/adarsh-2406/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/adarsh-2406/DSA/tree/main/0018-4sum/) | Medium |
+| [0056-merge-intervals](https://github.com/adarsh-2406/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/adarsh-2406/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0164-maximum-gap](https://github.com/adarsh-2406/DSA/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/adarsh-2406/DSA/tree/main/0169-majority-element/) | Easy |
