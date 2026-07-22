@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/adarsh-2406/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/adarsh-2406/DSA/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/adarsh-2406/DSA/tree/main/0031-next-permutation/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adarsh-2406/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/adarsh-2406/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0046-permutations](https://github.com/adarsh-2406/DSA/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/adarsh-2406/DSA/tree/main/0048-rotate-image/) | Medium |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adarsh-2406/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adarsh-2406/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adarsh-2406/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0278-first-bad-version](https://github.com/adarsh-2406/DSA/tree/main/0278-first-bad-version/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/adarsh-2406/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
