@@ -8,11 +8,12 @@ public:
             int mid = low + (high-low)/2;
             if(nums[mid] == target) return true;
             // check edge case for duplicate , aggr low , mid , high tino same ho jaayega toh hum check nhi kr payenge ki konsa part sorted hai;
-            else if(nums[low] == nums[mid] && nums[mid] == nums[high]){ 
+             if(nums[low] == nums[mid] && nums[mid] == nums[high]){ 
                 low++; 
                 high--;
+                continue;
             }
-            else if(nums[low] <= nums[mid]){ // checking left half sorted or not;
+            if(nums[low] <= nums[mid]){ // checking left half sorted or not;
                 if(nums[low] <= target && target<=nums[mid]){ // checking target lies in left or not;
                     high = mid-1;
                 }
