@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/adarsh-2406/DSA/tree/main/2942-find-words-containing-character/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/adarsh-2406/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/adarsh-2406/DSA/tree/main/3794-reverse-string-prefix/) | Easy |
+| [3931-check-adjacent-digit-differences](https://github.com/adarsh-2406/DSA/tree/main/3931-check-adjacent-digit-differences/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
