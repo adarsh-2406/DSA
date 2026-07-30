@@ -1,0 +1,11 @@
+class Solution {
+public:
+    bool validDigit(int n, int x) {
+        string s = to_string(n);
+        for(int i = 0; i<s.size();i++){
+            if(i == 0 && s[i] - '0' == x) return false;
+            if(s[i] - '0' == x) return true;
+        }
+        return false;
+    }
+};
