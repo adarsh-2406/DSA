@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/adarsh-2406/DSA/tree/main/1323-maximum-69-number/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/adarsh-2406/DSA/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adarsh-2406/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2235-add-two-integers](https://github.com/adarsh-2406/DSA/tree/main/2235-add-two-integers/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/adarsh-2406/DSA/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/adarsh-2406/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adarsh-2406/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
