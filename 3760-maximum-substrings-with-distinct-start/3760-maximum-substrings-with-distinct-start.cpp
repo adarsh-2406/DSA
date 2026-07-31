@@ -7,5 +7,7 @@ public:
         }
         return set.size();
 
+        // method 2 : do it with frequency , check you have seen that element before or not;
+
     }
 };
