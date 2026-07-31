@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/adarsh-2406/DSA/tree/main/2942-find-words-containing-character/) | Easy |
 | [3151-special-array-i](https://github.com/adarsh-2406/DSA/tree/main/3151-special-array-i/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/adarsh-2406/DSA/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adarsh-2406/DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adarsh-2406/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3921-score-validator](https://github.com/adarsh-2406/DSA/tree/main/3921-score-validator/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/adarsh-2406/DSA/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/adarsh-2406/DSA/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/adarsh-2406/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adarsh-2406/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adarsh-2406/DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adarsh-2406/DSA/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adarsh-2406/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3908-valid-digit-number](https://github.com/adarsh-2406/DSA/tree/main/3908-valid-digit-number/) | Easy |
