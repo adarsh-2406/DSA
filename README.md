@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/adarsh-2406/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/adarsh-2406/DSA/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/adarsh-2406/DSA/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/adarsh-2406/DSA/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/adarsh-2406/DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2942-find-words-containing-character](https://github.com/adarsh-2406/DSA/tree/main/2942-find-words-containing-character/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/adarsh-2406/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/adarsh-2406/DSA/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/adarsh-2406/DSA/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/adarsh-2406/DSA/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 | [3921-score-validator](https://github.com/adarsh-2406/DSA/tree/main/3921-score-validator/) | Easy |
