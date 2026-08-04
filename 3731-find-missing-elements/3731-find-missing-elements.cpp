@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> findMissingElements(vector<int>& nums) {
+        // do it with checking method , and mark true ;
        vector<int> ans;
         sort(nums.begin(), nums.end());
         int check = nums[0];
