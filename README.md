@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/adarsh-2406/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0605-can-place-flowers](https://github.com/adarsh-2406/DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/adarsh-2406/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/adarsh-2406/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/adarsh-2406/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/adarsh-2406/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0948-bag-of-tokens](https://github.com/adarsh-2406/DSA/tree/main/0948-bag-of-tokens/) | Medium |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/adarsh-2406/DSA/tree/main/0441-arranging-coins/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/adarsh-2406/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/adarsh-2406/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/adarsh-2406/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
