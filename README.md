@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/adarsh-2406/DSA/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adarsh-2406/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/adarsh-2406/DSA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/adarsh-2406/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/adarsh-2406/DSA/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/adarsh-2406/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adarsh-2406/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/adarsh-2406/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adarsh-2406/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/adarsh-2406/DSA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/adarsh-2406/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/adarsh-2406/DSA/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/adarsh-2406/DSA/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 ## Hash Table
