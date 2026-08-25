@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/adarsh-2406/DSA/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adarsh-2406/DSA/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/adarsh-2406/DSA/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/adarsh-2406/DSA/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2942-find-words-containing-character](https://github.com/adarsh-2406/DSA/tree/main/2942-find-words-containing-character/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adarsh-2406/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3151-special-array-i](https://github.com/adarsh-2406/DSA/tree/main/3151-special-array-i/) | Easy |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/adarsh-2406/DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adarsh-2406/DSA/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/adarsh-2406/DSA/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/adarsh-2406/DSA/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/adarsh-2406/DSA/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adarsh-2406/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3884-first-matching-character-from-both-ends](https://github.com/adarsh-2406/DSA/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/adarsh-2406/DSA/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adarsh-2406/DSA/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/adarsh-2406/DSA/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/adarsh-2406/DSA/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/adarsh-2406/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/adarsh-2406/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adarsh-2406/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/adarsh-2406/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/adarsh-2406/DSA/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/adarsh-2406/DSA/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/adarsh-2406/DSA/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adarsh-2406/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/adarsh-2406/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/adarsh-2406/DSA/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
