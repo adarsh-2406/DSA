@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/adarsh-2406/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/adarsh-2406/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarsh-2406/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/adarsh-2406/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0414-third-maximum-number](https://github.com/adarsh-2406/DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/adarsh-2406/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/adarsh-2406/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/adarsh-2406/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/adarsh-2406/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0605-can-place-flowers](https://github.com/adarsh-2406/DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0881-boats-to-save-people](https://github.com/adarsh-2406/DSA/tree/main/0881-boats-to-save-people/) | Medium |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/adarsh-2406/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarsh-2406/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/adarsh-2406/DSA/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/adarsh-2406/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0441-arranging-coins](https://github.com/adarsh-2406/DSA/tree/main/0441-arranging-coins/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/adarsh-2406/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/adarsh-2406/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adarsh-2406/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/adarsh-2406/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/adarsh-2406/DSA/tree/main/0392-is-subsequence/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/adarsh-2406/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1025-divisor-game](https://github.com/adarsh-2406/DSA/tree/main/1025-divisor-game/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/adarsh-2406/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/adarsh-2406/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0525-contiguous-array](https://github.com/adarsh-2406/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/adarsh-2406/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/adarsh-2406/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
