@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adarsh-2406/DSA/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/adarsh-2406/DSA/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/adarsh-2406/DSA/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adarsh-2406/DSA/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/adarsh-2406/DSA/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2942-find-words-containing-character](https://github.com/adarsh-2406/DSA/tree/main/2942-find-words-containing-character/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adarsh-2406/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/adarsh-2406/DSA/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adarsh-2406/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/adarsh-2406/DSA/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adarsh-2406/DSA/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/adarsh-2406/DSA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/adarsh-2406/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/adarsh-2406/DSA/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adarsh-2406/DSA/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
