@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adarsh-2406/DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adarsh-2406/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/adarsh-2406/DSA/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/adarsh-2406/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/adarsh-2406/DSA/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/adarsh-2406/DSA/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adarsh-2406/DSA/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adarsh-2406/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/adarsh-2406/DSA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/adarsh-2406/DSA/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/adarsh-2406/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/adarsh-2406/DSA/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adarsh-2406/DSA/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/adarsh-2406/DSA/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/adarsh-2406/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/adarsh-2406/DSA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/adarsh-2406/DSA/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/adarsh-2406/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/adarsh-2406/DSA/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
