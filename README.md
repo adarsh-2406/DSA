@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/adarsh-2406/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0771-jewels-and-stones](https://github.com/adarsh-2406/DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/adarsh-2406/DSA/tree/main/0796-rotate-string/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/adarsh-2406/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adarsh-2406/DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/adarsh-2406/DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/adarsh-2406/DSA/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/adarsh-2406/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/adarsh-2406/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/adarsh-2406/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/adarsh-2406/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -470,4 +472,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/adarsh-2406/DSA/tree/main/0912-sort-an-array/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/adarsh-2406/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
