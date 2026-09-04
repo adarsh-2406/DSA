@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/adarsh-2406/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adarsh-2406/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/adarsh-2406/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/adarsh-2406/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3921-score-validator](https://github.com/adarsh-2406/DSA/tree/main/3921-score-validator/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/adarsh-2406/DSA/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Two Pointers
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/adarsh-2406/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/adarsh-2406/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/adarsh-2406/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/adarsh-2406/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
