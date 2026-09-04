@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/adarsh-2406/DSA/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adarsh-2406/DSA/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/adarsh-2406/DSA/tree/main/2643-row-with-maximum-ones/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/adarsh-2406/DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2942-find-words-containing-character](https://github.com/adarsh-2406/DSA/tree/main/2942-find-words-containing-character/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adarsh-2406/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3151-special-array-i](https://github.com/adarsh-2406/DSA/tree/main/3151-special-array-i/) | Easy |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/adarsh-2406/DSA/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/adarsh-2406/DSA/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/adarsh-2406/DSA/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/adarsh-2406/DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adarsh-2406/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/adarsh-2406/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/adarsh-2406/DSA/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0342-power-of-four](https://github.com/adarsh-2406/DSA/tree/main/0342-power-of-four/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/adarsh-2406/DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
