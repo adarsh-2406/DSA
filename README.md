@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/adarsh-2406/DSA/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/adarsh-2406/DSA/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/adarsh-2406/DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/adarsh-2406/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adarsh-2406/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/adarsh-2406/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/adarsh-2406/DSA/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/adarsh-2406/DSA/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adarsh-2406/DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2942-find-words-containing-character](https://github.com/adarsh-2406/DSA/tree/main/2942-find-words-containing-character/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/adarsh-2406/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/adarsh-2406/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/adarsh-2406/DSA/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/adarsh-2406/DSA/tree/main/3794-reverse-string-prefix/) | Easy |
