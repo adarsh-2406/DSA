@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/adarsh-2406/DSA/tree/main/0948-bag-of-tokens/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/adarsh-2406/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/adarsh-2406/DSA/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adarsh-2406/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adarsh-2406/DSA/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/adarsh-2406/DSA/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/adarsh-2406/DSA/tree/main/2460-apply-operations-to-an-array/) | Easy |
@@ -515,4 +516,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/adarsh-2406/DSA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adarsh-2406/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
