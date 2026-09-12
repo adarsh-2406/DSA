@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarsh-2406/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/adarsh-2406/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0414-third-maximum-number](https://github.com/adarsh-2406/DSA/tree/main/0414-third-maximum-number/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/adarsh-2406/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/adarsh-2406/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/adarsh-2406/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0525-contiguous-array](https://github.com/adarsh-2406/DSA/tree/main/0525-contiguous-array/) | Medium |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/adarsh-2406/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0342-power-of-four](https://github.com/adarsh-2406/DSA/tree/main/0342-power-of-four/) | Easy |
 | [0441-arranging-coins](https://github.com/adarsh-2406/DSA/tree/main/0441-arranging-coins/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/adarsh-2406/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/adarsh-2406/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/adarsh-2406/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/adarsh-2406/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
