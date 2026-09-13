@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/adarsh-2406/DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/adarsh-2406/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/adarsh-2406/DSA/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/adarsh-2406/DSA/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adarsh-2406/DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2942-find-words-containing-character](https://github.com/adarsh-2406/DSA/tree/main/2942-find-words-containing-character/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/adarsh-2406/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/adarsh-2406/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0867-transpose-matrix](https://github.com/adarsh-2406/DSA/tree/main/0867-transpose-matrix/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/adarsh-2406/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/adarsh-2406/DSA/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/adarsh-2406/DSA/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/adarsh-2406/DSA/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adarsh-2406/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
