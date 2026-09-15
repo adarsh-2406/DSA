@@ -524,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/adarsh-2406/DSA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [1669-merge-in-between-linked-lists](https://github.com/adarsh-2406/DSA/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adarsh-2406/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/adarsh-2406/DSA/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Pigeonhole Principle
