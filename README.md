@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/adarsh-2406/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0342-power-of-four](https://github.com/adarsh-2406/DSA/tree/main/0342-power-of-four/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/adarsh-2406/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/adarsh-2406/DSA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [1669-merge-in-between-linked-lists](https://github.com/adarsh-2406/DSA/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adarsh-2406/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
