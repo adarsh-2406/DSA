@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/adarsh-2406/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/adarsh-2406/DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adarsh-2406/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/adarsh-2406/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adarsh-2406/DSA/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/adarsh-2406/DSA/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/adarsh-2406/DSA/tree/main/2460-apply-operations-to-an-array/) | Easy |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/adarsh-2406/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/adarsh-2406/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/adarsh-2406/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/adarsh-2406/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/adarsh-2406/DSA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [1669-merge-in-between-linked-lists](https://github.com/adarsh-2406/DSA/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adarsh-2406/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/adarsh-2406/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/adarsh-2406/DSA/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
