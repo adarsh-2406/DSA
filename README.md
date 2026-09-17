@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/adarsh-2406/DSA/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/adarsh-2406/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0342-power-of-four](https://github.com/adarsh-2406/DSA/tree/main/0342-power-of-four/) | Easy |
 ## Counting
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adarsh-2406/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/adarsh-2406/DSA/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/adarsh-2406/DSA/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/adarsh-2406/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/adarsh-2406/DSA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [1669-merge-in-between-linked-lists](https://github.com/adarsh-2406/DSA/tree/main/1669-merge-in-between-linked-lists/) | Medium |
