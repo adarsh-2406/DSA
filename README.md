@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/adarsh-2406/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1323-maximum-69-number](https://github.com/adarsh-2406/DSA/tree/main/1323-maximum-69-number/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/adarsh-2406/DSA/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/adarsh-2406/DSA/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/adarsh-2406/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/adarsh-2406/DSA/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adarsh-2406/DSA/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/adarsh-2406/DSA/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/adarsh-2406/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adarsh-2406/DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/adarsh-2406/DSA/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/adarsh-2406/DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adarsh-2406/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/adarsh-2406/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
