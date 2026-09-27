@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/adarsh-2406/DSA/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/adarsh-2406/DSA/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adarsh-2406/DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/adarsh-2406/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2942-find-words-containing-character](https://github.com/adarsh-2406/DSA/tree/main/2942-find-words-containing-character/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/adarsh-2406/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3271-hash-divided-string](https://github.com/adarsh-2406/DSA/tree/main/3271-hash-divided-string/) | Medium |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/adarsh-2406/DSA/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/adarsh-2406/DSA/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/adarsh-2406/DSA/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/adarsh-2406/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/adarsh-2406/DSA/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adarsh-2406/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/adarsh-2406/DSA/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/adarsh-2406/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adarsh-2406/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/adarsh-2406/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/adarsh-2406/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
