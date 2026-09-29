@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3151-special-array-i](https://github.com/adarsh-2406/DSA/tree/main/3151-special-array-i/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/adarsh-2406/DSA/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adarsh-2406/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/adarsh-2406/DSA/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adarsh-2406/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/adarsh-2406/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adarsh-2406/DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/adarsh-2406/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/adarsh-2406/DSA/tree/main/0342-power-of-four/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/adarsh-2406/DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/adarsh-2406/DSA/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/adarsh-2406/DSA/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3271-hash-divided-string](https://github.com/adarsh-2406/DSA/tree/main/3271-hash-divided-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/adarsh-2406/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/adarsh-2406/DSA/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/adarsh-2406/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adarsh-2406/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3921-score-validator](https://github.com/adarsh-2406/DSA/tree/main/3921-score-validator/) | Easy |
