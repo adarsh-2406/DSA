@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/adarsh-2406/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/adarsh-2406/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/adarsh-2406/DSA/tree/main/0912-sort-an-array/) | Medium |
+| [0922-sort-array-by-parity-ii](https://github.com/adarsh-2406/DSA/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0948-bag-of-tokens](https://github.com/adarsh-2406/DSA/tree/main/0948-bag-of-tokens/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/adarsh-2406/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/adarsh-2406/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/adarsh-2406/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0881-boats-to-save-people](https://github.com/adarsh-2406/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/adarsh-2406/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0922-sort-array-by-parity-ii](https://github.com/adarsh-2406/DSA/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0948-bag-of-tokens](https://github.com/adarsh-2406/DSA/tree/main/0948-bag-of-tokens/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/adarsh-2406/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/adarsh-2406/DSA/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/adarsh-2406/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/adarsh-2406/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/adarsh-2406/DSA/tree/main/0912-sort-an-array/) | Medium |
+| [0922-sort-array-by-parity-ii](https://github.com/adarsh-2406/DSA/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0948-bag-of-tokens](https://github.com/adarsh-2406/DSA/tree/main/0948-bag-of-tokens/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/adarsh-2406/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/adarsh-2406/DSA/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
