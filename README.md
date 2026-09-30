@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/adarsh-2406/DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/adarsh-2406/DSA/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/adarsh-2406/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1108-defanging-an-ip-address](https://github.com/adarsh-2406/DSA/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adarsh-2406/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adarsh-2406/DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adarsh-2406/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
