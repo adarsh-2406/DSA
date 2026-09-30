@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/adarsh-2406/DSA/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/adarsh-2406/DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/adarsh-2406/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/adarsh-2406/DSA/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adarsh-2406/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/adarsh-2406/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/adarsh-2406/DSA/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/adarsh-2406/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3271-hash-divided-string](https://github.com/adarsh-2406/DSA/tree/main/3271-hash-divided-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/adarsh-2406/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/adarsh-2406/DSA/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/adarsh-2406/DSA/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/adarsh-2406/DSA/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/adarsh-2406/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/adarsh-2406/DSA/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2284-sender-with-largest-word-count](https://github.com/adarsh-2406/DSA/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adarsh-2406/DSA/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/adarsh-2406/DSA/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
