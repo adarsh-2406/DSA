@@ -2,6 +2,7 @@ class Solution {
 public:
     string restoreString(string s, vector<int>& indices) {
        int n = s.size();
+        // string k(s.size(), ' '); aise bhi string bna skte hai.
        vector<string>ans(n);
 
         for(int i=0; i<n; i++){
