@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/adarsh-2406/DSA/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/adarsh-2406/DSA/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2284-sender-with-largest-word-count](https://github.com/adarsh-2406/DSA/tree/main/2284-sender-with-largest-word-count/) | Medium |
+| [2325-decode-the-message](https://github.com/adarsh-2406/DSA/tree/main/2325-decode-the-message/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/adarsh-2406/DSA/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/adarsh-2406/DSA/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/adarsh-2406/DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/adarsh-2406/DSA/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adarsh-2406/DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2284-sender-with-largest-word-count](https://github.com/adarsh-2406/DSA/tree/main/2284-sender-with-largest-word-count/) | Medium |
+| [2325-decode-the-message](https://github.com/adarsh-2406/DSA/tree/main/2325-decode-the-message/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/adarsh-2406/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2942-find-words-containing-character](https://github.com/adarsh-2406/DSA/tree/main/2942-find-words-containing-character/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/adarsh-2406/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
