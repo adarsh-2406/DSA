@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/adarsh-2406/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/adarsh-2406/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0342-power-of-four](https://github.com/adarsh-2406/DSA/tree/main/0342-power-of-four/) | Easy |
+| [0367-valid-perfect-square](https://github.com/adarsh-2406/DSA/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/adarsh-2406/DSA/tree/main/0441-arranging-coins/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adarsh-2406/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adarsh-2406/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/adarsh-2406/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/adarsh-2406/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarsh-2406/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0367-valid-perfect-square](https://github.com/adarsh-2406/DSA/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/adarsh-2406/DSA/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/adarsh-2406/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0441-arranging-coins](https://github.com/adarsh-2406/DSA/tree/main/0441-arranging-coins/) | Easy |
