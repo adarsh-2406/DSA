@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/adarsh-2406/DSA/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/adarsh-2406/DSA/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adarsh-2406/DSA/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1389-create-target-array-in-the-given-order](https://github.com/adarsh-2406/DSA/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/adarsh-2406/DSA/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/adarsh-2406/DSA/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adarsh-2406/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/adarsh-2406/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/adarsh-2406/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0867-transpose-matrix](https://github.com/adarsh-2406/DSA/tree/main/0867-transpose-matrix/) | Easy |
+| [1389-create-target-array-in-the-given-order](https://github.com/adarsh-2406/DSA/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/adarsh-2406/DSA/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/adarsh-2406/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/adarsh-2406/DSA/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
