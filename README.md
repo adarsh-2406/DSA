@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/adarsh-2406/DSA/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/adarsh-2406/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/adarsh-2406/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adarsh-2406/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/adarsh-2406/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/adarsh-2406/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adarsh-2406/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/adarsh-2406/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/adarsh-2406/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/adarsh-2406/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adarsh-2406/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/adarsh-2406/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adarsh-2406/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/adarsh-2406/DSA/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/adarsh-2406/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/adarsh-2406/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/adarsh-2406/DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adarsh-2406/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -552,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/adarsh-2406/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/adarsh-2406/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/adarsh-2406/DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adarsh-2406/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -560,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/adarsh-2406/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adarsh-2406/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -638,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0701-insert-into-a-binary-search-tree](https://github.com/adarsh-2406/DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adarsh-2406/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
