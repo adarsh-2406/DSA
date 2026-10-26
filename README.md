@@ -540,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adarsh-2406/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/adarsh-2406/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/adarsh-2406/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/adarsh-2406/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/adarsh-2406/DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adarsh-2406/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -547,12 +548,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adarsh-2406/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/adarsh-2406/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/adarsh-2406/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adarsh-2406/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/adarsh-2406/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/adarsh-2406/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/adarsh-2406/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/adarsh-2406/DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adarsh-2406/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -648,4 +651,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/adarsh-2406/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/adarsh-2406/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
