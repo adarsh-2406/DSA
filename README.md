@@ -550,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adarsh-2406/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adarsh-2406/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adarsh-2406/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/adarsh-2406/DSA/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/adarsh-2406/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/adarsh-2406/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/adarsh-2406/DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adarsh-2406/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adarsh-2406/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adarsh-2406/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/adarsh-2406/DSA/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/adarsh-2406/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/adarsh-2406/DSA/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/adarsh-2406/DSA/tree/main/1302-deepest-leaves-sum/) | Medium |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adarsh-2406/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adarsh-2406/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adarsh-2406/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/adarsh-2406/DSA/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/adarsh-2406/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/adarsh-2406/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/adarsh-2406/DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -693,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/adarsh-2406/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/adarsh-2406/DSA/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/adarsh-2406/DSA/tree/main/0226-invert-binary-tree/) | Easy |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/adarsh-2406/DSA/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/adarsh-2406/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/adarsh-2406/DSA/tree/main/1302-deepest-leaves-sum/) | Medium |
 ## Binary Lifting
